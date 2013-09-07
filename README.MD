@@ -13,7 +13,7 @@ Features
 - Entity groups that holds common keys/flags can be set in external ini file which should be located in: [destination folder]\ssconfig.ini or [destination folder]\..\[destination folder].ini
 
 --------------------------------------------------------------------------------
- Version History + Changelog (Reverse Chronological Order)
+ Version History + Changelog
 --------------------------------------------------------------------------------
 
 1.0 (16-07-2013)
